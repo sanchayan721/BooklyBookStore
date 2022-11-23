@@ -82,4 +82,6 @@
 /bookly/.classpath
 
 # Uploads Folder
-/bookly/uploads
+/bookly/uploads/authors/*
+/bookly/uploads/books/*
+/bookly/uploads/users/*
