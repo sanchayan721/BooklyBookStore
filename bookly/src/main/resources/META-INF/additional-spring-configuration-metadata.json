@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "allowed.origin",
+    "type": "java.lang.String",
+    "description": "This is used to configure the cors."
+  },
+  {
+    "name": "books.images.uploadpath",
+    "type": "java.lang.String",
+    "description": "File system upload path for book covers and so on."
+  },
+  {
+    "name": "authors.images.uploadpath",
+    "type": "java.lang.String",
+    "description": "File system upload path for author's photo."
+  },
+  {
+    "name": "users.images.uploadpath",
+    "type": "java.lang.String",
+    "description": "File system upload path for user's photo."
+  },
+  {
+    "name": "project.location",
+    "type": "java.lang.String",
+    "description": "Location of the project"
+  },
+  {
+    "name": "server.location",
+    "type": "java.lang.String",
+    "description": "location of server with port number"
+  }
+]}

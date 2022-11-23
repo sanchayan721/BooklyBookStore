@@ -1,0 +1,85 @@
+# FrontEnd
+
+# dependencies
+/bookly_frontend/node_modules
+/bookly_frontend/.pnp
+/bookly_frontend.pnp.js
+
+# testing
+/bookly_frontend/coverage
+
+# production
+/bookly_frontend/build
+
+# misc
+/bookly_frontend/.DS_Store
+/bookly_frontend/.env.local
+/bookly_frontend/.env.development.local
+/bookly_frontend/.env.test.local
+/bookly_frontend/.env.production.local
+
+/bookly_frontend/npm-debug.log*
+/bookly_frontend/yarn-debug.log*
+/bookly_frontend/yarn-error.log*
+
+# Backend
+
+/bookly/.metadata
+/bookly/bin/
+/bookly/tmp/
+/bookly/*.tmp
+/bookly/*.bak
+/bookly/*.swp
+/bookly/*~.nib
+/bookly/local.properties
+/bookly/.settings/
+/bookly/.loadpath
+/bookly/.recommenders
+
+# External tool builders
+/bookly/.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+/bookly/*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+/bookly/*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+/bookly/.cproject
+
+# Java annotation processor (APT)
+/bookly/.factorypath
+
+# PDT-specific (PHP Development Tools)
+/bookly/.buildpath
+
+# sbteclipse plugin
+/bookly/.target
+
+# Tern plugin
+/bookly/.tern-project
+
+# TeXlipse plugin
+/bookly/.texlipse
+
+# STS (Spring Tool Suite)
+/bookly/.springBeans
+
+# Code Recommenders
+/bookly/.recommenders/
+
+# Scala IDE specific (Scala & Java development for Eclipse)
+/bookly/.cache-main
+/bookly/.scala_dependencies
+/bookly/.worksheet
+
+### Eclipse Patch ###
+# Eclipse Core      
+/bookly/.project
+
+# JDT-specific (Eclipse Java Development Tools)     
+/bookly/.classpath
+
+# Uploads Folder
+/bookly/uploads

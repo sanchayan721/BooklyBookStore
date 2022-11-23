@@ -1,0 +1,9 @@
+.navbar {
+    & .barcontent {
+        display: flex;
+        & .logo {
+            flex-grow: 1;
+        }
+    }
+    position: fixed;
+}

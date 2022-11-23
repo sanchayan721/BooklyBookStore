@@ -1,0 +1,13 @@
+.author-adding-field-dialogue {
+
+    & .author-image-upload-component {
+        border-radius: 0.5em;
+        height: 100%;
+        width: 100%;
+
+        & img {
+            height: 100%;
+            width: 100%;
+        }
+    }
+}

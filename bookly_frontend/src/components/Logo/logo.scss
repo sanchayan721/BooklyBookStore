@@ -1,0 +1,14 @@
+.logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1em;
+    overflow: hidden;
+    padding: 0.5em 0em;
+
+    & svg {
+        width: 2.25em;
+        height: 2.25em;
+    }
+}

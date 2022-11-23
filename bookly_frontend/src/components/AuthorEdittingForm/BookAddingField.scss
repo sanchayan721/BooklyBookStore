@@ -1,0 +1,10 @@
+.book-adding-field-dialogue {
+    & .cover-image-holder {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        & .cover-upload-container {
+            border-radius: 0.5em;
+        }
+    }
+}

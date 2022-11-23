@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --transition-base: all 300ms ease-in 100ms;
+  --primary-color: rgb(126, 87, 194);
+  --secondary-color: rgb(121, 134, 203);
+  --primary-highlight: rgba(126, 87, 194, 0.1);
+  --secondary-highlight: rgba(121, 134, 203, 0.1);
+}
+
+.w100 {
+  font-weight: 100;
+}
+
+.w200 {
+  font-weight: 200;
+}
+
+.w300 {
+  font-weight: 300;
+}
+
+.w400 {
+  font-weight: 400;
+}
+
+.w600 {
+  font-weight: 600 !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+}
+
+h5 {
+  font-size: 2.5em;
+  font-weight: 400;
+}
